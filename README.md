@@ -2,6 +2,7 @@
 Runs a local copy of DynamoDB in Docker.<br />
 Sets up a simple GUI using [dynamodb-admin](https://www.npmjs.com/package/dynamodb-admin)
 
+DynamoDB is stored locally into newly created folder `./data` in the file `shared-local-instance.db`
 
 ## Pre-Requisities
 
